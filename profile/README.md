@@ -1,5 +1,4 @@
-
-![firmworks logo](/images/firmworks.png)
+![Firmworks logo](https://user-images.githubusercontent.com/15019217/217874640-e29385ce-57cf-4ce7-99f6-105ecb07fef1.png)
 
 
 # Welcome to the GitHub home for firmworks

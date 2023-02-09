@@ -1,5 +1,5 @@
 
-![firmworks logo](images/firmworks.png)
+![firmworks logo](/images/firmworks.png)
 
 
 # Welcome to the GitHub home for firmworks

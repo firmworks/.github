@@ -1,10 +1,8 @@
-<div style="text-align: center">
+
 ![firmworks logo](../images/firmworks.png)
-</div>
 
-# firmworks
 
-Welcome to the GitHub home for firmworks.
+# Welcome to the GitHub home for firmworks
 
 firmworks is a collection of creative people that believe in empowering others and loves solving challenges.
 

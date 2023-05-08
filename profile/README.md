@@ -13,6 +13,5 @@ Documentation to some select offerings -
 
 - [FileViewer for Salesforce - All things Salesforce Files](https://firmworks.github.io/fileviewer/)
 - [Nearby for Salesforce - Geographical tools for Salesforce](https://firmworks.github.io/nearby/)
-
-- [Note Manager for Salesforce - Search, tag and manage Content Notes](https://firmworks.github.io/notemanager/)
+- [NoteManager for Salesforce - Search, tag and manage Content Notes](https://firmworks.github.io/notemanager/)
 

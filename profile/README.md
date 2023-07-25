@@ -1,17 +1,17 @@
 ![Firmworks logo](https://user-images.githubusercontent.com/15019217/217874640-e29385ce-57cf-4ce7-99f6-105ecb07fef1.png)
 
 
-# Welcome to the GitHub home for firmworks
+# Welcome to the GitHub home for FirmWorks
 
-firmworks is a collection of creative people that believe in empowering others and loves solving challenges.
+FirmWorks is a collection of creative people that believe in empowering others and loves solving challenges.
 
-firmworks creates products and solutions for Salesforce and is a Salesforce ISV partner
+FirmWorks creates products and solutions for Salesforce and is a Salesforce ISV partner
 
-firmworks creates integration products and solutions to glue together services from nearly anywhere
+FirmWorks creates integration products and solutions to glue together services from nearly anywhere
 
 Documentation to some select offerings -
 
-- [FileViewer for Salesforce - All things Salesforce Files](https://firmworks.github.io/fileviewer/)
-- [Nearby for Salesforce - Geographical tools for Salesforce](https://firmworks.github.io/nearby/)
-- [NoteManager for Salesforce - Search, tag and manage Content Notes](https://firmworks.github.io/notemanager/)
+- [FirmWorks Files for Salesforce - All things Salesforce Files](https://firmworks.github.io/files/)
+- [FirmWorks Geo for Salesforce - Geographical tools for Salesforce](https://firmworks.github.io/geo/)
+- [FirmWorks Notes for Salesforce - Search, tag and manage Content Notes](https://firmworks.github.io/notes/)
 

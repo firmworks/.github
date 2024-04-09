@@ -13,5 +13,4 @@ Documentation to some select offerings -
 
 - [FirmWorks Files for Salesforce - All things Salesforce Files](https://firmworks.github.io/files/)
 - [FirmWorks Geo for Salesforce - Geographical tools for Salesforce](https://firmworks.github.io/geo/)
-- [FirmWorks Notes for Salesforce - Search, tag and manage Content Notes](https://firmworks.github.io/notes/)
 
